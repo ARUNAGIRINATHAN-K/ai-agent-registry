@@ -997,6 +997,15 @@ See [CHANGELOG.md](CHANGELOG.md) for the full update history.
 
 Your contributions are what keep this list useful. Read [Contributing.md](CONTRIBUTING.md) for the entry format, inclusion criteria, and style guide.
 
+## 🌟 Contributors
+
+Thanks to everyone who helps improve
+the AI Agent ecosystem!
+
+<a href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ARUNAGIRINATHAN-K/awesome-ai-agents-2026" />
+</a>
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ARUNAGIRINATHAN-K/ai-agent-registry&type=Date)](https://star-history.com/#ARUNAGIRINATHAN-K/ai-agent-registry&Date)
