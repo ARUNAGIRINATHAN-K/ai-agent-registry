@@ -270,6 +270,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [Datacircle](https://datacircle.dev/) `🔬` `[Cloud]` `[MCP]` - Query your favorite B2B data APIs through us. Same request, same price, no markup.
 - [DC Hub](https://github.com/azmartone67/dchub-mcp-server) `🔬` `[Cloud]` `[MCP]` - Scores where data centers can get grid power across 300+ markets daily, served to agents over hosted MCP.
 - [Docker MCP](https://github.com/docker/mcp-gateway) `🌱` `[Go]` `[MCP]` - Docker's MCP gateway CLI plugin for running MCP servers in isolated containers.
+- [GTD Brain](https://gtdbrain.com) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server with OAuth 2.1 and 16 tools that lets ChatGPT, Claude, Gemini CLI and Cursor run a Getting Things Done board.
 - [Equibles](https://equibles.com/mcp) `🔬` `[Cloud]` `[MCP]` - Serves US stock data to agents over MCP: SEC filings, financials, earnings transcripts, insider trades and 13F holdings.
 - [HCS Agent Protocol](https://github.com/hashgraph/hedera-agent-kit-js) `🌱` `[TypeScript]` `[IDE]` - Hedera open standards for agent identity with trustless P2P communication and 187K+ verified agents.
 - [HIG Doctor](https://github.com/raintree-technology/hig-doctor) `🌱` `[TypeScript]` `[MCP]` - Apple HIG audit CLI and MCP server exposing design-guideline lookup and project audits for coding agents across SwiftUI, UIKit, React, Next.js, Flutter, Compose, HTML, and CSS.
