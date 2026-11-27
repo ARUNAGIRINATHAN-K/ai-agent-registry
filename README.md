@@ -287,6 +287,7 @@ The protocol layer that enables agents to discover tools, communicate with each 
 - [TableJourney](https://tablejourney.com/agents/) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server giving agents verified restaurants, food festival dates and bookable tours in 224 cities, and paying agents half of the booking commission.
 - [Tapetide MCP](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) `🔬` `[TypeScript]` `[MCP]` - Gives agents quotes, financials, shareholding, screener and FII/DII flow data for about 8,200 NSE and BSE stocks.
 - [Toolhouse](https://toolhouse.ai/en/) `🌱` `[Python]` `[Multi-Agent]` - Cloud-hosted tool infrastructure for agents with optimized execution and low-latency access.
+- [Transformer.gg](https://transformer.gg/?utm_source=openagentregistry&utm_medium=referral&utm_campaign=backlinks&utm_content=listing) `🔬` `[Cloud]` `[MCP]` - Hosted MCP server, CLI and REST API for booking sponsored posts from X creators with tracked links and performance attribution.
 - [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) `🔬` `[Cloud]` `[MCP]` - Hosted X Twitter data MCP for search, follower export, monitors, and confirmation-gated writes.
 - [Zapier MCP Server](https://zapier.com/mcp) `🌱` `[Cloud]` `[MCP]` - Connect agents to 7,000+ app integrations via MCP, powered by Zapier's automation platform.
 - [zero-api-key-web-search](https://github.com/wd041216-bit/zero-api-key-web-search) `🌱` `[Python]` `[MCP]` - Free web search toolkit for AI agents with no API keys, MCP server support.
