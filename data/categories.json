@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:14:12.749Z",
+  "generatedAt": "2026-11-27T08:15:25.971Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -36,7 +36,7 @@
     {
       "name": "Agent Tooling and Infrastructure",
       "slug": "agent-tooling-and-infrastructure",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Low and No-Code Builders",
