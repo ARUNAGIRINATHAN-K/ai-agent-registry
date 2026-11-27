@@ -9,7 +9,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 [![Last Commit](https://img.shields.io/github/last-commit/ARUNAGIRINATHAN-K/ai-agent-registry)](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry/commits/main)
 ![Tools Listed](https://img.shields.io/badge/tools_listed-500%2B-blue?style=flat-square)
-[![Live Registry](https://img.shields.io/website?url=https%3A%2F%2Fai-agent-registry-kappa.vercel.app%2F&up_message=online&label=registry&style=flat-square)](https://ai-agent-registry-kappa.vercel.app/)
+[![Live Registry](https://img.shields.io/website?url=https%3A%2F%2Fopenagentregistry.vercel.app%2F&up_message=online&label=registry&style=flat-square)](https://openagentregistry.vercel.app/)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square)](LICENSE)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FARUNAGIRINATHAN-K%2Fai-agent-registry)
 
@@ -17,7 +17,7 @@
 
 AI Agent Registry is an open-source, community-driven directory designed to make the rapidly growing AI agent ecosystem easier to discover, explore, and navigate.
 
-**[Explore the Stack](#contents) • [Live App](https://ai-agent-registry-kappa.vercel.app/#live) • [Architecture](ARCHITECTURE.md) • [Data Schema](DATA_SCHEMA.md) • [Development](DEVELOPMENT.md) • [Contributing](#contributing) • [Agent Guide](AGENT.md)**
+**[Explore the Stack](#contents) • [Live App](https://openagentregistry.vercel.app//#live) • [Architecture](ARCHITECTURE.md) • [Data Schema](DATA_SCHEMA.md) • [Development](DEVELOPMENT.md) • [Contributing](#contributing) • [Agent Guide](AGENT.md)**
 
 <img src="img/main.png" width="100%">
 
@@ -95,7 +95,7 @@ Interactive Next.js 14 web application for searching, filtering, and exploring A
 npm install && npm run build:data && npm run dev
 ```
 
-**Live Web Registry**: [https://ai-agent-registry-kappa.vercel.app](https://ai-agent-registry-kappa.vercel.app/#explorer)  
+**Live Web Registry**: [https://openagentregistry.vercel.app/](https://openagentregistry.vercel.app//#explorer)  
 **Local Web App**: `http://localhost:3000`  
 **Docker**: `docker compose up --build`  
 **One-Click Deploy**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FARUNAGIRINATHAN-K%2Fai-agent-registry#deploy)
@@ -104,7 +104,7 @@ npm install && npm run build:data && npm run dev
 
 Have an AI agent, framework, tool, skill, or infrastructure project worth sharing?
 
-- **Web Submission Portal**: [Submit a Resource](https://ai-agent-registry-kappa.vercel.app/submit)
+- **Web Submission Portal**: [Submit a Resource](https://openagentregistry.vercel.app//submit)
 - **GitHub Issue Form**: [Open No-Code Submission Issue](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry/issues/new?template=submit_agent.yml)
 
 ---
@@ -999,8 +999,8 @@ Your contributions are what keep this list useful. Read [Contributing.md](CONTRI
 Thanks to everyone who helps improve
 the AI Agent ecosystem!
 
-<a href="https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ARUNAGIRINATHAN-K/awesome-ai-agents-2026" />
+<a href="https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ARUNAGIRINATHAN-K/ai-agent-registry" />
 </a>
 
 ## Star History
