@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T08:20:51.247Z",
+  "generatedAt": "2026-11-28T00:00:56.608Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -116,7 +116,7 @@
     {
       "name": "Prompt-to-App Builders",
       "slug": "prompt-to-app-builders",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Multi-Agent Consumer Platforms",
